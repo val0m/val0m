@@ -13,6 +13,6 @@ Available for freelance work — structural projects, fullstack reinforcement, a
 high-impact engagements (remote, hybrid, or on-site).
 
 ### 🔗 Links
-- 🌐 Portfolio: https://www.valentin-passe.com
+- 🌐 Portfolio: https://www.valentin-passe.fr
 - 💼 LinkedIn: https://www.linkedin.com/in/valentin-passe/
 - ✉️ passe.valentin@gmail.com
